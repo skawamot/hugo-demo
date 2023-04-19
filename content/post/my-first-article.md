@@ -5,19 +5,24 @@ draft: false
 ---
 
 hugoをインストール
+
 テーマをインストール
 
 
 <!--more-->
-##　サイトの作成
+
+ 　サイトの作成
+ -----------------
 - 設定ファイルに必要な項目を書き込む
 - Postページを作成
 - ローカルのURLで確認
 - Githubにpush
 
-##　GitHub pagesで公開する方法
+GitHub pagesで公開する方法
+-------------------
 - docsディレクトリを作成
 - baseURL をGitHubに
 - publishDir をdocsに
 - hugo コマンド実行
 
+ ### Heading3

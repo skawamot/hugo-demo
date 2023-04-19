@@ -1,5 +1,5 @@
 baseURL = 'https://skawamot.github.io/hugo-demo/'
-languageCode = 'en-us'
+languageCode = 'ja'
 title = 'My New Hugo Site'
 
 theme = "beautifulhugo"
