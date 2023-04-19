@@ -1,8 +1,10 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://skawamot.github.io/hugo-demo/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
 theme = "beautifulhugo"
+
+publishDir = "docs"
 
 [params]
 subtitle = "hugo の　テスト"

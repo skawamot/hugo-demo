@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://skawamot.github.io/hugo-demo/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Apr 2023 16:35:48 +0900</lastBuildDate><atom:link href="https://skawamot.github.io/hugo-demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ページの作成方法</title>
+      <link>https://skawamot.github.io/hugo-demo/post/my-first-article/</link>
+      <pubDate>Tue, 18 Apr 2023 16:35:48 +0900</pubDate>
+      
+      <guid>https://skawamot.github.io/hugo-demo/post/my-first-article/</guid>
+      <description>&lt;p&gt;brew インストール
+brewでhugoをインストール
+テーマをインストール&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
